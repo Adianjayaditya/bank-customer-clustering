@@ -1,6 +1,6 @@
 # Bank Customer Clustering
 
-This project involves clustering bank customer transactions using K-Means and Principal Component Analysis (PCA). The clustering result is used as a dataset for the classification project to predict whether a bank customer belongs to which cluster.
+This project involves clustering bank customer transactions using K-Means and Principal Component Analysis (PCA). The clustering result is used as a dataset for the classification project to predict whether a bank customer belongs to which cluster. PCA is used to reduce feature in data and to visualize data in 2-dimension chart.
 
 ##  Objective
 
