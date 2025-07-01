@@ -56,7 +56,7 @@ The dataset contains information about bank customers, such as:
 ### Clone the Repository
 
 ```bash
-git https://github.com/Adianjayaditya/bank-customer-clustering.git
+git clone https://github.com/Adianjayaditya/bank-customer-clustering.git
 ```
 
 ### Install Dependencies
